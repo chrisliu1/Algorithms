@@ -1,4 +1,4 @@
-/**
+/**POJ1006
  * set x
  * x % 23 == a  physical
  * x % 28 == b  emotion
